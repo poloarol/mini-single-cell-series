@@ -1,9 +1,8 @@
 # Mini Spatial Series
 
-This repository contains a hands-on tutorial for quality control of spatial
-transcriptomics data. The first notebook, **Approaching Quality Control on
-MERFISH**, uses blank probes to identify cells with high background signal and
-demonstrates how to visualize that signal alongside common cell-level QC
+This repository contains a hands-on tutorial for quality control of single-cell data. 
+The first notebook, **Approaching Quality Control on MERFISH**, uses blank probes to 
+identify cells with high background signal anddemonstrates how to visualize that signal alongside common cell-level QC
 metrics.
 
 ## Getting started
