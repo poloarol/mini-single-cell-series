@@ -1,4 +1,4 @@
-# Mini Spatial Series
+# Mini single-cell Series
 
 This repository contains a hands-on tutorial for quality control of single-cell data. 
 The first notebook, **Approaching Quality Control on MERFISH**, uses blank probes to 
